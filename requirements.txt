@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+arxiv
+wikipedia
+duckduckgo-search
+wordcloud
+plotly
+PyPDF2
+gtts
+matplotlib
